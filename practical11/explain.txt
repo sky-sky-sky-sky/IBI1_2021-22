@@ -1,0 +1,4 @@
+comparing the edit distance, we can find that the distance between human and mouse is 10, while human to random and mouse to random are 280 and 281 respectively, so human and mouse are very similar comparing to the random.
+comparing the percentage of identical amino acids, we can find that the percentage of identical amino acids human and mouse is 0.965, while human to random and mouse to random are 0.028 and 0.031 respectively, so human and mouse are very similar comparing to the random.
+comparing the scores, we can find thatscores human and mouse is 1429, while human to random and mouse to random are -275 and -264 respectively, so human and mouse are very similar comparing to the random.
+Man and mouse are alike
